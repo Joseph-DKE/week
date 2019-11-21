@@ -28,6 +28,6 @@ int main(void)
             }
 
         }
-
+//print final answer
     printf("%i \n", summ);
 }
